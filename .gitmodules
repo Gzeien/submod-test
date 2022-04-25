@@ -1,0 +1,3 @@
+[submodule "pages-test"]
+	path = pages-test
+	url = https://github.com/Gzeien/pages-test.git
